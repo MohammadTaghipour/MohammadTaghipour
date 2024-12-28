@@ -3,7 +3,7 @@
 <div>
 <p>Join Me In Socials!</p>
 <a href="https://www.instagram.com/mohmmad.taghipour/">
-    <img src="https://img.shields.io/badge/Instagram-096eb5?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-be95be?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-taghipour-307565205/">
@@ -24,7 +24,11 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="📧" width="18" height="18" /> Or for a fast way, just send me an email at taghipourmohammad7@gmail.com.
 
 ### GitHub Statistics
-[![Mohammad Taghipour GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadTaghipour&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad Taghipour GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadTaghipour&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&icon_color=f9f9f9&text_color=fff&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTaghipour&bg_color=30,e96443,904e95\&title_color=fff\&icon_color=f9f9f9&text_color=fff)
+
 <!--
 **MohammadTaghipour/MohammadTaghipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
