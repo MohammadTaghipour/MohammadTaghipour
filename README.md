@@ -2,7 +2,7 @@
 
 <div>
 <p>Join Me In Socials!</p>
-<a href="https://www.instagram.com/mohmmad.taghipour/">
+<a href="https://www.instagram.com/the.taghipour/">
     <img src="https://img.shields.io/badge/Instagram-be95be?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
