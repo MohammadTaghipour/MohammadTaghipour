@@ -1,45 +1,48 @@
-### Hey there, I'm  Mohammad Taghipour. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="25" height="25" />
+<h2 align="center">Hey there, I'm Mohammad Taghipour 👋</h2>
 
-<div>
-<p>Join Me In Socials!</p>
-<a href="https://www.instagram.com/the.taghipour/">
+
+### 👨‍💻 About Me
+- 💙 Software Engineer passionate about **Flutter**, **Android (Java)**, **Go**, and **Python**  
+- 📱 Focused on **mobile app development** and clean, scalable architecture  
+- 🧠 Always learning, building, and experimenting with new tech  
+- 📬 Reach me at **taghipourmohammad7@gmail.com**
+
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/the.taghipour/">
     <img src="https://img.shields.io/badge/Instagram-be95be?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-taghipour-307565205/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://t.me/theTaghipour/">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-taghipour-307565205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/theTaghipour/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  </a>
+</p>
 
 
-</div>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### I'm a Software Engineer, Developer and #Flutter lover
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="🧑‍💻" width="18" height="18" />  I am really interested in Flutter and Mobile development.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="18" height="18" /> Ask me anything about Flutter and Dart.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="🌐" width="18" height="18" /> You can find me on social media as mentioned above.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="📧" width="18" height="18" /> Or for a fast way, just send me an email at taghipourmohammad7@gmail.com.
 
-### GitHub Statistics
-[![Mohammad Taghipour GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadTaghipour&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&icon_color=f9f9f9&text_color=fff&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadTaghipour&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=f9f9f9&text_color=fff&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTaghipour&bg_color=30,e96443,904e95\&title_color=fff\&icon_color=f9f9f9&text_color=fff)
+### 💡 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTaghipour&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" />
+</p>
 
-<!--
-**MohammadTaghipour/MohammadTaghipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _"Code with purpose, learn with curiosity, and share with passion."_ 🚀
